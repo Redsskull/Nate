@@ -55,6 +55,12 @@ You can connect with me on <a href="https://www.linkedin.com/in/redsskull/" targ
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+ <a href="(https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />" alt="react" width="40" height="40"/> 
+  </a>
  </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redsskull&show_icons=true&count_private=true)
